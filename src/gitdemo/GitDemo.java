@@ -9,9 +9,9 @@ public class GitDemo {
         metodus();
         for (int i = 0; i < 10; i++) {
             if (true) {
-                
+                 System.out.println("wwwwwwwwwwww");
             }else{
-            
+                 System.out.println("wwwwwwwwwwww");
             }
         }
     }
